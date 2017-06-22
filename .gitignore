@@ -1,0 +1,34 @@
+# Compiled Object files
+
+
+# Precompiled Headers
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+
+
+# Executables
+
+
+# tmp
+*~
+
+# log folder
+
+
+
+# redis db
+
+# tar
+
+
+#module
+/3rd/skynet
+
